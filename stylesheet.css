@@ -1,0 +1,68 @@
+/* Stylesheet fuer Mooc WebEngineering I, Abschlussarbeit*/
+/*14.12.2013, be */
+<!--
+body {
+	font-size: 15px;
+	font-family: Verdana,sans-serif;
+}
+-->
+
+.eintrag {
+        color: red;
+        font-size: 14px;
+}
+		
+.picture {
+	 border-style: hidden;	    
+}
+
+.button1 {
+          border-radius: 5px; 
+		  background-color: #CFCFF4; 
+		  width: 115px; 
+		  height: 30px; 
+		  background-color: #CFCFF4; 	  
+}
+
+.button2 {
+         border-radius: 5px; 
+         background-color: #CFCFF4; 
+		 width: 115px; 
+		 height: 30px; 
+}
+
+.note {
+      font-size: 11px;
+	  }
+	  
+input[type=submit] {
+	border-radius: 5px;
+	font-size: 18px;
+	font-family: Verdana,sans-serif;
+	background-color: #CFCFF4; 
+	width: 115px; 
+	height: 30px; 
+}
+
+fieldset {
+	background-color: #EFEFEF;
+	width: 350px;
+}
+
+input:hover {
+	background-color: #CFAFCF;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+.kapitel {
+	      color: black;
+              font-size: 20px;
+}
+
+.eintrag {
+	      color: red;
+}
